@@ -1,0 +1,251 @@
+skin_type,symptom_1,symptom_2,disease,recommended_ingredient,recommended_product_type
+dry,red patches,red patches,eczema,shea butter,repair cream
+normal,oily skin,whiteheads,acne,salicylic acid,cleanser
+sensitive,facial redness,facial redness,rosacea,azelaic acid,soothing gel
+sensitive,skin cracking,skin cracking,eczema,ceramides,repair cream
+oily,red patches,skin cracking,eczema,colloidal oatmeal,repair cream
+sensitive,uneven skin tone,dark spots,hyperpigmentation,alpha arbutin,essence
+dry,whiteheads,oily skin,acne,salicylic acid,spot treatment
+normal,red patches,irritation,eczema,shea butter,balm
+combination,uneven skin tone,dark spots,hyperpigmentation,kojic acid,treatment cream
+normal,clogged pores,pimples,acne,benzoyl peroxide,serum
+sensitive,sun spots,sun spots,hyperpigmentation,vitamin c,brightening serum
+combination,visible blood vessels,facial redness,rosacea,green tea extract,serum
+dry,flaky skin,tight skin,dry skin,ceramides,cream
+combination,whiteheads,clogged pores,acne,benzoyl peroxide,cleanser
+oily,facial redness,visible blood vessels,rosacea,azelaic acid,calming cream
+oily,uneven skin tone,uneven skin tone,hyperpigmentation,vitamin c,essence
+normal,sun spots,uneven skin tone,hyperpigmentation,alpha arbutin,essence
+dry,dullness,dullness,dry skin,hyaluronic acid,moisturizer
+sensitive,burning sensation,burning sensation,rosacea,centella asiatica,calming cream
+oily,blackheads,blackheads,acne,salicylic acid,serum
+sensitive,whiteheads,clogged pores,acne,salicylic acid,spot treatment
+sensitive,dullness,dullness,dry skin,hyaluronic acid,moisturizer
+dry,pimples,clogged pores,acne,benzoyl peroxide,cleanser
+oily,dry itchy skin,red patches,eczema,ceramides,balm
+sensitive,dullness,dullness,dry skin,glycerin,moisturizer
+normal,skin cracking,irritation,eczema,colloidal oatmeal,balm
+dry,red patches,red patches,eczema,colloidal oatmeal,repair cream
+dry,tight skin,flaky skin,dry skin,hyaluronic acid,cream
+combination,dry itchy skin,irritation,eczema,shea butter,moisturizer
+combination,burning sensation,facial redness,rosacea,green tea extract,serum
+combination,dry itchy skin,irritation,eczema,shea butter,repair cream
+normal,dullness,dullness,dry skin,ceramides,hydrating serum
+combination,flaky skin,flaky skin,dry skin,hyaluronic acid,hydrating serum
+sensitive,dark spots,uneven skin tone,hyperpigmentation,kojic acid,essence
+sensitive,dullness,tight skin,dry skin,hyaluronic acid,hydrating serum
+combination,dry itchy skin,red patches,eczema,colloidal oatmeal,balm
+oily,skin cracking,dry itchy skin,eczema,colloidal oatmeal,balm
+combination,dullness,flaky skin,dry skin,hyaluronic acid,moisturizer
+dry,dry itchy skin,irritation,eczema,colloidal oatmeal,balm
+sensitive,flaky skin,dullness,dry skin,glycerin,cream
+dry,pimples,pimples,acne,benzoyl peroxide,serum
+oily,visible blood vessels,burning sensation,rosacea,green tea extract,calming cream
+dry,skin cracking,red patches,eczema,shea butter,balm
+combination,clogged pores,oily skin,acne,benzoyl peroxide,cleanser
+oily,irritation,red patches,eczema,ceramides,moisturizer
+oily,dark spots,dark spots,hyperpigmentation,alpha arbutin,treatment cream
+normal,sun spots,sun spots,hyperpigmentation,kojic acid,brightening serum
+oily,clogged pores,oily skin,acne,niacinamide,spot treatment
+dry,visible blood vessels,visible blood vessels,rosacea,azelaic acid,soothing gel
+sensitive,facial redness,visible blood vessels,rosacea,green tea extract,serum
+dry,dullness,dullness,dry skin,hyaluronic acid,moisturizer
+dry,blackheads,blackheads,acne,salicylic acid,serum
+dry,visible blood vessels,facial redness,rosacea,centella asiatica,serum
+dry,whiteheads,oily skin,acne,niacinamide,serum
+combination,dry itchy skin,dry itchy skin,eczema,colloidal oatmeal,balm
+sensitive,facial redness,facial redness,rosacea,azelaic acid,calming cream
+oily,visible blood vessels,facial redness,rosacea,green tea extract,serum
+dry,tight skin,dullness,dry skin,glycerin,hydrating serum
+combination,sun spots,sun spots,hyperpigmentation,alpha arbutin,essence
+combination,irritation,irritation,eczema,ceramides,moisturizer
+normal,flaky skin,flaky skin,dry skin,hyaluronic acid,moisturizer
+sensitive,dullness,dullness,dry skin,ceramides,moisturizer
+oily,blackheads,clogged pores,acne,niacinamide,cleanser
+oily,flaky skin,dullness,dry skin,hyaluronic acid,cream
+oily,blackheads,oily skin,acne,benzoyl peroxide,spot treatment
+combination,dullness,flaky skin,dry skin,hyaluronic acid,moisturizer
+dry,dark spots,dark spots,hyperpigmentation,kojic acid,brightening serum
+sensitive,facial redness,visible blood vessels,rosacea,centella asiatica,calming cream
+oily,red patches,irritation,eczema,ceramides,moisturizer
+dry,facial redness,burning sensation,rosacea,azelaic acid,serum
+normal,flaky skin,tight skin,dry skin,hyaluronic acid,cream
+oily,oily skin,oily skin,acne,benzoyl peroxide,cleanser
+sensitive,tight skin,dullness,dry skin,glycerin,moisturizer
+combination,skin cracking,irritation,eczema,ceramides,repair cream
+sensitive,visible blood vessels,visible blood vessels,rosacea,azelaic acid,calming cream
+normal,dullness,dullness,dry skin,glycerin,hydrating serum
+combination,blackheads,blackheads,acne,salicylic acid,spot treatment
+oily,flaky skin,tight skin,dry skin,glycerin,hydrating serum
+oily,visible blood vessels,burning sensation,rosacea,green tea extract,serum
+sensitive,whiteheads,oily skin,acne,benzoyl peroxide,cleanser
+normal,dark spots,uneven skin tone,hyperpigmentation,vitamin c,brightening serum
+normal,visible blood vessels,burning sensation,rosacea,green tea extract,serum
+dry,facial redness,facial redness,rosacea,centella asiatica,serum
+oily,sun spots,uneven skin tone,hyperpigmentation,vitamin c,essence
+normal,visible blood vessels,facial redness,rosacea,azelaic acid,soothing gel
+oily,uneven skin tone,sun spots,hyperpigmentation,vitamin c,treatment cream
+oily,blackheads,blackheads,acne,salicylic acid,cleanser
+normal,flaky skin,dullness,dry skin,hyaluronic acid,cream
+sensitive,visible blood vessels,visible blood vessels,rosacea,azelaic acid,calming cream
+oily,irritation,dry itchy skin,eczema,colloidal oatmeal,repair cream
+sensitive,sun spots,uneven skin tone,hyperpigmentation,alpha arbutin,treatment cream
+dry,skin cracking,irritation,eczema,shea butter,balm
+sensitive,visible blood vessels,facial redness,rosacea,green tea extract,calming cream
+normal,dullness,tight skin,dry skin,ceramides,cream
+oily,tight skin,flaky skin,dry skin,hyaluronic acid,cream
+sensitive,dullness,tight skin,dry skin,glycerin,moisturizer
+sensitive,visible blood vessels,burning sensation,rosacea,green tea extract,calming cream
+combination,blackheads,oily skin,acne,salicylic acid,cleanser
+dry,sun spots,uneven skin tone,hyperpigmentation,kojic acid,brightening serum
+normal,burning sensation,visible blood vessels,rosacea,green tea extract,calming cream
+oily,blackheads,blackheads,acne,benzoyl peroxide,cleanser
+combination,visible blood vessels,burning sensation,rosacea,azelaic acid,serum
+normal,sun spots,uneven skin tone,hyperpigmentation,alpha arbutin,essence
+sensitive,skin cracking,red patches,eczema,colloidal oatmeal,moisturizer
+combination,facial redness,visible blood vessels,rosacea,azelaic acid,serum
+sensitive,skin cracking,skin cracking,eczema,colloidal oatmeal,moisturizer
+sensitive,dark spots,dark spots,hyperpigmentation,alpha arbutin,essence
+dry,red patches,irritation,eczema,shea butter,balm
+dry,pimples,pimples,acne,niacinamide,spot treatment
+oily,dullness,flaky skin,dry skin,ceramides,hydrating serum
+combination,pimples,pimples,acne,salicylic acid,serum
+oily,dullness,flaky skin,dry skin,glycerin,moisturizer
+oily,dry itchy skin,skin cracking,eczema,shea butter,balm
+oily,dry itchy skin,irritation,eczema,colloidal oatmeal,balm
+dry,dullness,flaky skin,dry skin,ceramides,moisturizer
+oily,visible blood vessels,visible blood vessels,rosacea,azelaic acid,serum
+dry,blackheads,whiteheads,acne,salicylic acid,serum
+sensitive,dark spots,dark spots,hyperpigmentation,vitamin c,brightening serum
+sensitive,sun spots,dark spots,hyperpigmentation,kojic acid,essence
+combination,facial redness,visible blood vessels,rosacea,green tea extract,soothing gel
+dry,sun spots,sun spots,hyperpigmentation,alpha arbutin,essence
+combination,red patches,dry itchy skin,eczema,ceramides,moisturizer
+dry,irritation,red patches,eczema,colloidal oatmeal,balm
+dry,facial redness,visible blood vessels,rosacea,azelaic acid,calming cream
+dry,visible blood vessels,visible blood vessels,rosacea,azelaic acid,soothing gel
+dry,flaky skin,flaky skin,dry skin,ceramides,cream
+sensitive,dry itchy skin,red patches,eczema,shea butter,repair cream
+dry,tight skin,flaky skin,dry skin,ceramides,moisturizer
+normal,burning sensation,visible blood vessels,rosacea,centella asiatica,serum
+sensitive,whiteheads,clogged pores,acne,salicylic acid,cleanser
+combination,facial redness,visible blood vessels,rosacea,green tea extract,soothing gel
+dry,red patches,skin cracking,eczema,colloidal oatmeal,moisturizer
+normal,whiteheads,oily skin,acne,niacinamide,serum
+sensitive,uneven skin tone,dark spots,hyperpigmentation,kojic acid,treatment cream
+dry,irritation,red patches,eczema,colloidal oatmeal,balm
+normal,dullness,dullness,dry skin,ceramides,cream
+normal,uneven skin tone,sun spots,hyperpigmentation,alpha arbutin,brightening serum
+oily,red patches,red patches,eczema,ceramides,repair cream
+sensitive,irritation,dry itchy skin,eczema,colloidal oatmeal,moisturizer
+combination,blackheads,oily skin,acne,salicylic acid,spot treatment
+combination,burning sensation,facial redness,rosacea,azelaic acid,soothing gel
+sensitive,irritation,red patches,eczema,ceramides,repair cream
+oily,dullness,flaky skin,dry skin,hyaluronic acid,cream
+combination,uneven skin tone,uneven skin tone,hyperpigmentation,vitamin c,treatment cream
+sensitive,dullness,flaky skin,dry skin,glycerin,hydrating serum
+combination,flaky skin,dullness,dry skin,ceramides,hydrating serum
+sensitive,red patches,skin cracking,eczema,ceramides,moisturizer
+oily,tight skin,tight skin,dry skin,glycerin,moisturizer
+sensitive,red patches,irritation,eczema,ceramides,balm
+combination,visible blood vessels,facial redness,rosacea,centella asiatica,serum
+normal,skin cracking,dry itchy skin,eczema,ceramides,repair cream
+oily,sun spots,dark spots,hyperpigmentation,alpha arbutin,essence
+normal,uneven skin tone,uneven skin tone,hyperpigmentation,kojic acid,treatment cream
+oily,sun spots,uneven skin tone,hyperpigmentation,alpha arbutin,treatment cream
+dry,clogged pores,pimples,acne,benzoyl peroxide,cleanser
+normal,dark spots,sun spots,hyperpigmentation,kojic acid,brightening serum
+oily,flaky skin,dullness,dry skin,ceramides,moisturizer
+normal,whiteheads,oily skin,acne,benzoyl peroxide,spot treatment
+oily,sun spots,uneven skin tone,hyperpigmentation,kojic acid,brightening serum
+normal,dullness,flaky skin,dry skin,ceramides,cream
+sensitive,facial redness,visible blood vessels,rosacea,azelaic acid,serum
+sensitive,uneven skin tone,dark spots,hyperpigmentation,alpha arbutin,treatment cream
+normal,irritation,dry itchy skin,eczema,shea butter,balm
+combination,tight skin,flaky skin,dry skin,ceramides,moisturizer
+dry,dark spots,sun spots,hyperpigmentation,vitamin c,brightening serum
+normal,dullness,dullness,dry skin,glycerin,moisturizer
+sensitive,red patches,red patches,eczema,shea butter,balm
+combination,dark spots,uneven skin tone,hyperpigmentation,kojic acid,treatment cream
+normal,skin cracking,red patches,eczema,colloidal oatmeal,moisturizer
+combination,dullness,dullness,dry skin,glycerin,hydrating serum
+sensitive,dark spots,dark spots,hyperpigmentation,kojic acid,treatment cream
+sensitive,dry itchy skin,red patches,eczema,colloidal oatmeal,balm
+normal,sun spots,uneven skin tone,hyperpigmentation,kojic acid,treatment cream
+combination,tight skin,dullness,dry skin,ceramides,moisturizer
+normal,facial redness,burning sensation,rosacea,azelaic acid,soothing gel
+normal,uneven skin tone,dark spots,hyperpigmentation,kojic acid,brightening serum
+normal,tight skin,tight skin,dry skin,hyaluronic acid,moisturizer
+normal,flaky skin,dullness,dry skin,glycerin,moisturizer
+oily,dullness,flaky skin,dry skin,ceramides,hydrating serum
+oily,red patches,skin cracking,eczema,colloidal oatmeal,balm
+dry,uneven skin tone,dark spots,hyperpigmentation,kojic acid,treatment cream
+combination,tight skin,flaky skin,dry skin,hyaluronic acid,hydrating serum
+sensitive,blackheads,oily skin,acne,salicylic acid,spot treatment
+oily,sun spots,uneven skin tone,hyperpigmentation,kojic acid,essence
+dry,irritation,irritation,eczema,colloidal oatmeal,moisturizer
+dry,whiteheads,whiteheads,acne,benzoyl peroxide,cleanser
+dry,uneven skin tone,dark spots,hyperpigmentation,vitamin c,essence
+sensitive,facial redness,visible blood vessels,rosacea,azelaic acid,serum
+normal,skin cracking,red patches,eczema,shea butter,balm
+oily,dullness,flaky skin,dry skin,hyaluronic acid,cream
+normal,oily skin,whiteheads,acne,benzoyl peroxide,spot treatment
+combination,dullness,flaky skin,dry skin,hyaluronic acid,moisturizer
+oily,dry itchy skin,dry itchy skin,eczema,colloidal oatmeal,balm
+sensitive,tight skin,flaky skin,dry skin,ceramides,moisturizer
+oily,tight skin,flaky skin,dry skin,ceramides,cream
+combination,burning sensation,visible blood vessels,rosacea,centella asiatica,soothing gel
+dry,irritation,red patches,eczema,ceramides,balm
+combination,uneven skin tone,dark spots,hyperpigmentation,vitamin c,brightening serum
+dry,tight skin,flaky skin,dry skin,hyaluronic acid,hydrating serum
+sensitive,sun spots,sun spots,hyperpigmentation,vitamin c,brightening serum
+sensitive,uneven skin tone,dark spots,hyperpigmentation,vitamin c,essence
+dry,clogged pores,whiteheads,acne,benzoyl peroxide,cleanser
+combination,skin cracking,red patches,eczema,shea butter,moisturizer
+combination,red patches,irritation,eczema,ceramides,repair cream
+combination,blackheads,pimples,acne,salicylic acid,serum
+dry,whiteheads,oily skin,acne,benzoyl peroxide,cleanser
+dry,dark spots,sun spots,hyperpigmentation,vitamin c,brightening serum
+oily,irritation,red patches,eczema,ceramides,repair cream
+normal,dark spots,dark spots,hyperpigmentation,kojic acid,treatment cream
+combination,irritation,irritation,eczema,shea butter,repair cream
+dry,facial redness,facial redness,rosacea,green tea extract,soothing gel
+normal,dry itchy skin,skin cracking,eczema,shea butter,moisturizer
+dry,dullness,dullness,dry skin,glycerin,hydrating serum
+dry,visible blood vessels,facial redness,rosacea,azelaic acid,serum
+normal,oily skin,pimples,acne,niacinamide,cleanser
+dry,tight skin,flaky skin,dry skin,hyaluronic acid,moisturizer
+oily,pimples,oily skin,acne,salicylic acid,cleanser
+oily,facial redness,facial redness,rosacea,green tea extract,serum
+combination,tight skin,flaky skin,dry skin,ceramides,moisturizer
+normal,dry itchy skin,irritation,eczema,shea butter,repair cream
+sensitive,burning sensation,facial redness,rosacea,azelaic acid,soothing gel
+sensitive,uneven skin tone,sun spots,hyperpigmentation,alpha arbutin,treatment cream
+sensitive,burning sensation,facial redness,rosacea,green tea extract,serum
+sensitive,clogged pores,clogged pores,acne,salicylic acid,serum
+combination,red patches,red patches,eczema,ceramides,balm
+oily,burning sensation,burning sensation,rosacea,azelaic acid,calming cream
+combination,pimples,oily skin,acne,benzoyl peroxide,serum
+oily,skin cracking,irritation,eczema,colloidal oatmeal,moisturizer
+normal,facial redness,visible blood vessels,rosacea,green tea extract,soothing gel
+oily,dark spots,sun spots,hyperpigmentation,vitamin c,essence
+normal,visible blood vessels,facial redness,rosacea,green tea extract,calming cream
+oily,visible blood vessels,facial redness,rosacea,green tea extract,calming cream
+combination,visible blood vessels,burning sensation,rosacea,centella asiatica,soothing gel
+combination,dark spots,dark spots,hyperpigmentation,alpha arbutin,brightening serum
+normal,blackheads,clogged pores,acne,benzoyl peroxide,serum
+sensitive,facial redness,burning sensation,rosacea,azelaic acid,serum
+dry,skin cracking,dry itchy skin,eczema,shea butter,balm
+normal,blackheads,blackheads,acne,salicylic acid,spot treatment
+dry,dry itchy skin,dry itchy skin,eczema,shea butter,balm
+oily,sun spots,sun spots,hyperpigmentation,kojic acid,brightening serum
+combination,blackheads,pimples,acne,benzoyl peroxide,spot treatment
+sensitive,pimples,whiteheads,acne,benzoyl peroxide,cleanser
+dry,uneven skin tone,dark spots,hyperpigmentation,alpha arbutin,essence
+normal,dry itchy skin,irritation,eczema,shea butter,repair cream
+combination,dry itchy skin,dry itchy skin,eczema,ceramides,balm
+combination,blackheads,blackheads,acne,salicylic acid,cleanser
+combination,irritation,skin cracking,eczema,colloidal oatmeal,moisturizer
+dry,skin cracking,skin cracking,eczema,shea butter,moisturizer
+sensitive,dry itchy skin,irritation,eczema,colloidal oatmeal,balm
+combination,irritation,irritation,eczema,colloidal oatmeal,moisturizer
