@@ -1,14 +1,24 @@
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
+import joblib
+
 def load_and_preprocess(path):
-    # Load the dataset
-  data = pd.read_csv("filedata/skincare_symptoms_disease_products_dataset.csv_path")
-  #converting text to numbers
-  encoder=LabelEncoder()
-  data['skin_type']=encoder.fit_transform(data['skin_type'])
-  data['symptom_1']=encoder.fit_transform(data['symptom_1'])
-  data['symptom_2']=encoder.fit_transform(data['symptom_2'])
-  data['disease']=encoder.fit_transform(data['disease'])
-  data['recommended_ingredient']=encoder.fit_transform(data['recommended_ingredient']) 
-  return data
-    
+    # Load the dataset using the passed-in path (was hardcoded with a broken string before)
+    data = pd.read_csv(path)
+
+    # Store label encoders so they can be reused during prediction
+    encoders = {}
+
+    # Encode all categorical columns
+    categorical_cols = ['skin_type', 'symptom_1', 'symptom_2', 'disease',
+                        'recommended_ingredient', 'recommended_product_type']
+
+    for col in categorical_cols:
+        encoder = LabelEncoder()
+        data[col] = encoder.fit_transform(data[col])
+        encoders[col] = encoder  # Save each encoder for later use in predict.py
+
+    # Save encoders to disk so predict.py can reuse the same label mappings
+    joblib.dump(encoders, 'encoders.pkl')
+
+    return data
