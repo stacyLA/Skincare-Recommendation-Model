@@ -4,13 +4,16 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, classification_report
 import joblib
 from preprocess import load_and_preprocess
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
 
 # Load and preprocess the dataset
-data = load_and_preprocess("/home/linder/skincare_predictor/src/skincare_symptoms_disease_products_dataset.csv")
+dataset_path = BASE_DIR / 'skincare_symptoms_disease_products_dataset.csv'
+data = load_and_preprocess(dataset_path)
 
 # Select features and target variable
-# FIX: added 'disease' as a feature — it improves prediction accuracy
-# FIX: corrected column name from 'recommended ingredient' (space) to 'recommended_ingredient' (underscore)
+
 X = data[['skin_type', 'symptom_1', 'symptom_2', 'disease']]
 y = data['recommended_ingredient']
 
@@ -28,9 +31,9 @@ print(f"Model Accuracy: {accuracy * 100:.2f}%")
 print("\nClassification Report:")
 print(classification_report(y_test, y_pred))
 
-# Save the trained model
-joblib.dump(model, 'skincare_model.pkl')
-print("\nModel trained and saved successfully as 'skincare_model.pkl'.")
+model_path = BASE_DIR / 'skincare_model.pkl'
+joblib.dump(model, model_path)
+print(f"\nModel trained and saved successfully as '{model_path.name}'.")
 
-# Save the preprocessed data for reference
-data.to_csv('preprocessed_data.csv', index=False)
+preprocessed_path = BASE_DIR / 'preprocessed_data.csv'
+data.to_csv(preprocessed_path, index=False)
